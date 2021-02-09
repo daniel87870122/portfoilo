@@ -3,30 +3,10 @@
     <title>林家煒 Daniel Lin</title>
     <link href="https://daniel87870122.github.io/portfoilo/feed.xml" rel="self" />
     <link href="https://daniel87870122.github.io/portfoilo" />
-    <updated>2021-02-09T17:53:39+08:00</updated>
+    <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>林家煒 Daniel Lin</name>
     </author>
     <id>https://daniel87870122.github.io/portfoilo</id>
 
-    <entry>
-        <title>測試</title>
-        <author>
-            <name>林家煒 Daniel Lin</name>
-        </author>
-        <link href="https://daniel87870122.github.io/portfoilo/ce-shi.html"/>
-        <id>https://daniel87870122.github.io/portfoilo/ce-shi.html</id>
-
-        <updated>2021-02-09T17:53:39+08:00</updated>
-            <summary>
-                <![CDATA[
-                    所以這樣會？
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>所以這樣會？</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
